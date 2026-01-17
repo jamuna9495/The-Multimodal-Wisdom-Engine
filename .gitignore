@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Video/Audio Files (Large files)
+*.mp4
+*.wav
+*.mov
+*.m4a
+
+# Environment/API Keys
+.env
+venv/
